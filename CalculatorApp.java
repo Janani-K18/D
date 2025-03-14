@@ -5,7 +5,7 @@ class Input
     void getInput() 
     {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter first number: ");
+        System.out.print("Enter first numberrr: ");
         num1 = sc.nextInt();
         System.out.print("Enter second number: ");
         num2 = sc.nextInt();
